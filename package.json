@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/captivationsoftware/react-sticky",
   "peerDependencies": {
-    "react": "0.x"
+    "react": "0.14.0-beta3"
   },
   "devDependencies": {
     "babel": "^5.8.21",
