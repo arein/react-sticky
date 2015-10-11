@@ -1,6 +1,6 @@
 {
   "name": "react-sticky",
-  "version": "2.6.3",
+  "version": "2.6.4",
   "description": "Sticky component for React",
   "main": "./lib/sticky",
   "scripts": {
@@ -41,7 +41,7 @@
   },
   "homepage": "https://github.com/captivationsoftware/react-sticky",
   "peerDependencies": {
-    "react": "0.14.0-rc1"
+    "react": "0.14.0"
   },
   "devDependencies": {
     "babel": "^5.8.21",
